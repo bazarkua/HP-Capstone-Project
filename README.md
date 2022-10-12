@@ -21,3 +21,6 @@ To do:
 * Output results that show the recommended settings along with a textual explanation
 * Gather evaluation feedback, that captures responses from experts, both based on expert knowledge and actual production results, and is used to improve the system.
 * In all areas, apply a thoughtful technical architecture and implementation.
+
+### Screenshot
+![Image text](https://eecs.oregonstate.edu/capstone/submission/images/7eT52blaD8PtKkGF)
